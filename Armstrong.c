@@ -1,9 +1,9 @@
-#include<sdio.>
-#include<coino.h>
-voi main()
+#include<stdio.h>
+#include<conio.h>
+void main()
 {
 int n1,n,rem,sum=0;
-clrscr);
+clrscr());
 printf("Enter the number :");
 scanf("%d",&n);
 n1=n;
