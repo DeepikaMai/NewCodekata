@@ -4,7 +4,7 @@ voi main()
 {
 int n1,n,rem,sum=0;
 clrscr);
-rintf("Enter he number :");
+printf("Enter the number :");
 scanf("%d",&n);
 n1=n;
 while(n!=0)
